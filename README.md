@@ -81,7 +81,8 @@
 
 После текущего релиза у тебя получится примерно такое приложение:
 
-![](./assets/00.gif)
+![00](https://github.com/baysarov-web/dom-state/assets/155926464/1118823f-02d7-4944-905e-da67280db1f8)
+
 
 ### Release 4.1 (bug fix)
 
@@ -103,7 +104,8 @@
 
 После текущего релиза у тебя должен быть примерно такой функционал:
 
-![](./assets/01.gif)
+![01](https://github.com/baysarov-web/dom-state/assets/155926464/27a25401-1904-4d53-8742-c6e19df3e07d)
+
 
 ### Release 6
 
@@ -119,7 +121,8 @@
 
 Состояние приложения после текущего релиза:
 
-![](./assets/02.gif)
+![02](https://github.com/baysarov-web/dom-state/assets/155926464/117cd800-86d3-4294-bd6f-b35907314c3f)
+
 
 ### Release 7
 
@@ -127,7 +130,7 @@
 
 Состояние приложения после текущего релиза:
 
-![](./assets/03.gif)
+![03](https://github.com/baysarov-web/dom-state/assets/155926464/774c3ea0-b6d1-4258-9c6b-110786968330)
 
 ### Release 8
 
@@ -143,7 +146,7 @@
 
 Состояние приложения после текущего релиза:
 
-![](./assets/04.gif)
+![04](https://github.com/baysarov-web/dom-state/assets/155926464/1dac1aa3-ec3d-433e-8227-57af35ecbdb2)
 
 ### Release 9. Code refactoring
 
